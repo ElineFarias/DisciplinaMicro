@@ -11,14 +11,12 @@ A disciplina de Microprocessadores abordou os fundamentos teóricos e práticos 
 Aqui estão os projetos desenvolvidos durante a disciplina:
 
 1. **Projeto 1**: Descrição breve do projeto 1.
-
-   - [Link para o projeto 1](link-para-projeto1)
-   - Descrição detalhada e instruções de execução do projeto.
+  Implemente um programa em assembler para o PIC18F4550 que apresente, continuamente no PORTD, o valor de uma variável contadora de 8 bits. O programa deve ler o estado lógico de duas chaves (SW1 e SW2). A variável contadora deve ser incrementada, a cada 1 segundo, quando SW1 estiver pressionada e decrementada, a cada 1 segundo, quando SW2 estiver pressionada. Se nenhuma chave estiver pressionada o programa apenas atualiza o PORTD com o valor atual da variável contadora.
+    - [Link para o projeto 1](link-para-projeto1)
 
 2. **Projeto 2**: Descrição breve do projeto 2.
-
-   - [Link para o projeto 2](link-para-projeto2)
-   - Descrição detalhada e instruções de execução do projeto.
+   Desenvolva um projeto com o microcontrolador PIC18F4550 para medir a largura dos pulsos positivos periódicos. O resultado deve ser atualizado periodicamente e apresentado num display LCD alfanumérico. Considere que a largura dos pulsos (T) assuma valores no intervalo de 500 μs a 2000 μs.
+     - [Link para o projeto 2](link-para-projeto2)
 
 
 ## 🤝 Contribuição
