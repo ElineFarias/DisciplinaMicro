@@ -25,7 +25,7 @@ Contribuições são sempre bem-vindas! Se você tiver ideias para novos projeto
 
 Agradecemos por explorar os projetos da disciplina de Microprocessadores! Esperamos que eles possam servir de inspiração e aprendizado para seus próprios projetos em sistemas embarcados.
 
-*Projeto realizado como parte do curso de Engenharia de Computação na Universidade Federal do Ceará - _Campus_ Sobral.*
+*Projetos realizado como parte do curso de Engenharia de Computação na Universidade Federal do Ceará - _Campus_ Sobral.*
 
                                 Dê vida às suas ideias com microprocessadores! 💡🔌
 
